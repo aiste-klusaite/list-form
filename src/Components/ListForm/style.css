@@ -1,0 +1,48 @@
+.list-form {
+    width: 95%;
+    margin: 20px auto;
+}
+
+header {
+    padding: 16px;
+    font-size: 3rem;
+    font-weight: thin;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ffffff50;
+}
+
+.list-form__buttons {
+    padding: 20px 0;
+}
+
+.list-form__table {
+    width: 100%;
+    text-align: center;
+    border: 4px solid #ffffff50;
+}
+
+th {
+    margin: 0;
+    padding: 20px 0;
+    background-color: #ffffff50;
+    border: none;
+}
+
+.th-button {
+    outline: none;
+    border: none;
+    background: none;
+    font-size: 1.56rem;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+td {
+    padding: 20px 0;
+    font-size: 1.25rem;
+}
+
+input[type=checkbox] {
+    transform: scale(1.5);
+}
