@@ -5,4 +5,3 @@ Created product list from provided products json list:
 3.Correctly formatted dates (visitor browser time zone & format). 
 4.Formatted and correctly shown price with currency symbol. 
 5. Created design for table.
-
